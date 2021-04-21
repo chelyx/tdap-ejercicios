@@ -19,8 +19,6 @@ class Tamanio
 end
 
 
-
-
 # Y se podrían crear como:
 # a = Tamanio.new("KB", 1024)
 # b = Tamanio.new("MB", 1)
